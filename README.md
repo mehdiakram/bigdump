@@ -28,7 +28,7 @@ Requirements
 Usage
 ------------
 
-1. ownload and unzip bigdump.zip on your PC.
+1. Download and unzip bigdump.zip on your PC.
 2. Open bigdump.php in a text editor, adjust the database configuration and dump file encoding. 
 3. Drop the old tables on the target database if your dump doesn’t contain “DROP TABLE” (use phpMyAdmin).
 4. Create the working directory (e.g. dump) on your web server
